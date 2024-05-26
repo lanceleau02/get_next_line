@@ -6,11 +6,11 @@
 /*   By: laprieur <laprieur@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/13 10:17:09 by laprieur          #+#    #+#             */
-/*   Updated: 2023/07/21 14:45:59 by laprieur         ###   ########.fr       */
+/*   Updated: 2024/05/26 18:29:20 by laprieur         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "../include/get_next_line.h"
 
 static int	check_nl(char *s)
 {
